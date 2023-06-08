@@ -8,19 +8,19 @@
     ".NETStandard,Version=v2.1": []
   },
   "packageFolders": {
-    "C:\\Users\\keke_\\.nuget\\packages\\": {}
+    "C:\\Users\\angel\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\projects1\\biblioteca\\biblioteca.Domain\\biblioteca.Domain.csproj",
+      "projectUniqueName": "C:\\projects1\\biblioteca1\\biblioteca\\biblioteca.Domain\\biblioteca.Domain.csproj",
       "projectName": "biblioteca.Domain",
-      "projectPath": "C:\\projects1\\biblioteca\\biblioteca.Domain\\biblioteca.Domain.csproj",
-      "packagesPath": "C:\\Users\\keke_\\.nuget\\packages\\",
-      "outputPath": "C:\\projects1\\biblioteca\\biblioteca.Domain\\obj\\",
+      "projectPath": "C:\\projects1\\biblioteca1\\biblioteca\\biblioteca.Domain\\biblioteca.Domain.csproj",
+      "packagesPath": "C:\\Users\\angel\\.nuget\\packages\\",
+      "outputPath": "C:\\projects1\\biblioteca1\\biblioteca\\biblioteca.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\keke_\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\angel\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -61,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
       }
     }
   }

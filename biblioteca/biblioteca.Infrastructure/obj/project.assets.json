@@ -1,45 +1,26 @@
 {
   "version": 3,
   "targets": {
-    ".NETStandard,Version=v2.1": {
-      "biblioteca.Domain/1.0.0": {
-        "type": "project",
-        "framework": ".NETStandard,Version=v2.1",
-        "compile": {
-          "bin/placeholder/biblioteca.Domain.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/biblioteca.Domain.dll": {}
-        }
-      }
-    }
+    ".NETStandard,Version=v2.1": {}
   },
-  "libraries": {
-    "biblioteca.Domain/1.0.0": {
-      "type": "project",
-      "path": "../biblioteca.Domain/biblioteca.Domain.csproj",
-      "msbuildProject": "../biblioteca.Domain/biblioteca.Domain.csproj"
-    }
-  },
+  "libraries": {},
   "projectFileDependencyGroups": {
-    ".NETStandard,Version=v2.1": [
-      "biblioteca.Domain >= 1.0.0"
-    ]
+    ".NETStandard,Version=v2.1": []
   },
   "packageFolders": {
-    "C:\\Users\\keke_\\.nuget\\packages\\": {}
+    "C:\\Users\\angel\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\projects1\\biblioteca\\biblioteca.Infrastructure\\biblioteca.Infrastructure.csproj",
+      "projectUniqueName": "C:\\projects1\\biblioteca1\\biblioteca\\biblioteca.Infrastructure\\biblioteca.Infrastructure.csproj",
       "projectName": "biblioteca.Infrastructure",
-      "projectPath": "C:\\projects1\\biblioteca\\biblioteca.Infrastructure\\biblioteca.Infrastructure.csproj",
-      "packagesPath": "C:\\Users\\keke_\\.nuget\\packages\\",
-      "outputPath": "C:\\projects1\\biblioteca\\biblioteca.Infrastructure\\obj\\",
+      "projectPath": "C:\\projects1\\biblioteca1\\biblioteca\\biblioteca.Infrastructure\\biblioteca.Infrastructure.csproj",
+      "packagesPath": "C:\\Users\\angel\\.nuget\\packages\\",
+      "outputPath": "C:\\projects1\\biblioteca1\\biblioteca\\biblioteca.Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\keke_\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\angel\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -52,11 +33,7 @@
       "frameworks": {
         "netstandard2.1": {
           "targetAlias": "netstandard2.1",
-          "projectReferences": {
-            "C:\\projects1\\biblioteca\\biblioteca.Domain\\biblioteca.Domain.csproj": {
-              "projectPath": "C:\\projects1\\biblioteca\\biblioteca.Domain\\biblioteca.Domain.csproj"
-            }
-          }
+          "projectReferences": {}
         }
       },
       "warningProperties": {
@@ -84,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
       }
     }
   }

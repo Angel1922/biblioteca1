@@ -5,8 +5,4 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
-  <ItemGroup>
-    <ProjectReference Include="..\biblioteca.Domain\biblioteca.Domain.csproj" />
-  </ItemGroup>
-
 </Project>
