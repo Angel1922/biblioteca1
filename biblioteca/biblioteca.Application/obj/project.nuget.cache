@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6J4T7Vm7sbG7Up7H5hhPWQO6iJqOpCEVnk2uRe9YrVUHErpTmK4HimLlGXs9UrNR6U7H77ny3YhXPthRom9ijQ==",
+  "dgSpecHash": "o7tvyXNJCS1lakj2TnsIT0eEVUFFIDV8763T1AA6BwawSVoIOb8r4z4I0tq0RY6VL/ZG61uCMkDe1RaFFfzQUg==",
   "success": true,
-  "projectFilePath": "C:\\projects1\\biblioteca1\\biblioteca\\biblioteca.Application\\biblioteca.Application.csproj",
+  "projectFilePath": "C:\\projects\\biblioteca\\biblioteca.Application\\biblioteca.Application.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

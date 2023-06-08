@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\projects1\\biblioteca1\\biblioteca\\biblioteca.Api\\biblioteca.Api.csproj": {}
+    "C:\\projects\\biblioteca\\biblioteca.Api\\biblioteca.Api.csproj": {}
   },
   "projects": {
-    "C:\\projects1\\biblioteca1\\biblioteca\\biblioteca.Api\\biblioteca.Api.csproj": {
+    "C:\\projects\\biblioteca\\biblioteca.Api\\biblioteca.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\projects1\\biblioteca1\\biblioteca\\biblioteca.Api\\biblioteca.Api.csproj",
+        "projectUniqueName": "C:\\projects\\biblioteca\\biblioteca.Api\\biblioteca.Api.csproj",
         "projectName": "biblioteca.Api",
-        "projectPath": "C:\\projects1\\biblioteca1\\biblioteca\\biblioteca.Api\\biblioteca.Api.csproj",
-        "packagesPath": "C:\\Users\\angel\\.nuget\\packages\\",
-        "outputPath": "C:\\projects1\\biblioteca1\\biblioteca\\biblioteca.Api\\obj\\",
+        "projectPath": "C:\\projects\\biblioteca\\biblioteca.Api\\biblioteca.Api.csproj",
+        "packagesPath": "C:\\Users\\Enmanuel\\.nuget\\packages\\",
+        "outputPath": "C:\\projects\\biblioteca\\biblioteca.Api\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\angel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Enmanuel\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -64,7 +64,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }
