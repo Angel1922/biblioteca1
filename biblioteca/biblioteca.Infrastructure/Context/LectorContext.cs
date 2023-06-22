@@ -1,10 +1,20 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
+﻿using biblioteca.Domain.Entities;
+using Microsoft.EntityFrameworkCore;
 
-namespace biblioteca.Domain.Context
+namespace biblioteca.Infrastructure.Context
 {
-    internal class LectorContext
+    public partial class LectorContext : DbContext
     {
+        public LectorContext()
+        {
+
+        }
+
+        public LectorContext(DbContextOptions<LectorContext> options) : base(options)
+        {
+
+        }
+
+        public DbSet<Lector> Lector { get; set; } 
     }
 }

@@ -11,9 +11,9 @@ namespace biblioteca.Domain.Core
         }
         public DateTime FechaCreacion { get; set; }
         public bool Eliminado { get; set; }
-        public string UsuarioCreacion { get; set; }
-        public DateTime? FechaMod { get; set; }
-        public string? UsuarioMod { get; set; }
+        public string? UsuarioCreacion { get; set; }
+        public DateTime? FechaModificacion { get; set; }
+        public string? UsuarioModificacion { get; set; }
         public DateTime? FechaEliminado { get; set; }
         public string? UsuarioEliminado { get; set; }
     }

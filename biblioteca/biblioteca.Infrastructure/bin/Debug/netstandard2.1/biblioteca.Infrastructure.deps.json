@@ -1,0 +1,37 @@
+{
+  "runtimeTarget": {
+    "name": ".NETStandard,Version=v2.1/",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETStandard,Version=v2.1": {},
+    ".NETStandard,Version=v2.1/": {
+      "biblioteca.Infrastructure/1.0.0": {
+        "dependencies": {
+          "biblioteca.Domain": "1.0.0"
+        },
+        "runtime": {
+          "biblioteca.Infrastructure.dll": {}
+        }
+      },
+      "biblioteca.Domain/1.0.0": {
+        "runtime": {
+          "biblioteca.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "biblioteca.Infrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "biblioteca.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

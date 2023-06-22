@@ -1,0 +1,10 @@
+C:\projects\biblioteca\biblioteca.Domain\bin\Debug\netstandard2.1\biblioteca.Domain.deps.json
+C:\projects\biblioteca\biblioteca.Domain\bin\Debug\netstandard2.1\biblioteca.Domain.dll
+C:\projects\biblioteca\biblioteca.Domain\bin\Debug\netstandard2.1\biblioteca.Domain.pdb
+C:\projects\biblioteca\biblioteca.Domain\obj\Debug\netstandard2.1\biblioteca.Domain.csproj.AssemblyReference.cache
+C:\projects\biblioteca\biblioteca.Domain\obj\Debug\netstandard2.1\biblioteca.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\biblioteca\biblioteca.Domain\obj\Debug\netstandard2.1\biblioteca.Domain.AssemblyInfoInputs.cache
+C:\projects\biblioteca\biblioteca.Domain\obj\Debug\netstandard2.1\biblioteca.Domain.AssemblyInfo.cs
+C:\projects\biblioteca\biblioteca.Domain\obj\Debug\netstandard2.1\biblioteca.Domain.csproj.CoreCompileInputs.cache
+C:\projects\biblioteca\biblioteca.Domain\obj\Debug\netstandard2.1\biblioteca.Domain.dll
+C:\projects\biblioteca\biblioteca.Domain\obj\Debug\netstandard2.1\biblioteca.Domain.pdb

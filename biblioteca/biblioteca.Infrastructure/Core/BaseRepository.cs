@@ -1,29 +1,34 @@
-﻿using System;
+﻿using biblioteca.Domain.Repository;
+using System;
 using System.Collections.Generic;
-using System.Text;
 
-namespace biblioteca.Domain.Core
+namespace biblioteca.Infrastructure.Core
 {
     public abstract class BaseRepository<TEntity> : IRepositoryBase<TEntity> where TEntity : class
     {
-        public virtual void Actualizar(TEntity entity)
+        public virtual void Delete(TEntity entity)
         {
-            throw new System.NotImplementedException();
+            throw new NotImplementedException();
         }
 
         public virtual List<TEntity> GetEntities()
         {
-            throw new System.NotImplementedException();
+            throw new NotImplementedException();
         }
 
-        public virtual void Guardar(TEntity entity)
+        public virtual TEntity GetEntityById(int id)
         {
-            throw new System.NotImplementedException();
+            throw new NotImplementedException();
         }
 
-        public virtual TEntity TraerEntityPorId(int id)
+        public virtual void Save(TEntity entity)
         {
-            throw new System.NotImplementedException();
+            throw new NotImplementedException();
+        }
+
+        public virtual void Update(TEntity entity)
+        {
+            throw new NotImplementedException();
         }
     }
 }

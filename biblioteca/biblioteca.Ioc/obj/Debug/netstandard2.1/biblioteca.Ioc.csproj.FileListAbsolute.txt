@@ -1,0 +1,10 @@
+C:\projects\biblioteca\biblioteca.Ioc\bin\Debug\netstandard2.1\biblioteca.Ioc.deps.json
+C:\projects\biblioteca\biblioteca.Ioc\bin\Debug\netstandard2.1\biblioteca.Ioc.dll
+C:\projects\biblioteca\biblioteca.Ioc\bin\Debug\netstandard2.1\biblioteca.Ioc.pdb
+C:\projects\biblioteca\biblioteca.Ioc\obj\Debug\netstandard2.1\biblioteca.Ioc.csproj.AssemblyReference.cache
+C:\projects\biblioteca\biblioteca.Ioc\obj\Debug\netstandard2.1\biblioteca.Ioc.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\biblioteca\biblioteca.Ioc\obj\Debug\netstandard2.1\biblioteca.Ioc.AssemblyInfoInputs.cache
+C:\projects\biblioteca\biblioteca.Ioc\obj\Debug\netstandard2.1\biblioteca.Ioc.AssemblyInfo.cs
+C:\projects\biblioteca\biblioteca.Ioc\obj\Debug\netstandard2.1\biblioteca.Ioc.csproj.CoreCompileInputs.cache
+C:\projects\biblioteca\biblioteca.Ioc\obj\Debug\netstandard2.1\biblioteca.Ioc.dll
+C:\projects\biblioteca\biblioteca.Ioc\obj\Debug\netstandard2.1\biblioteca.Ioc.pdb

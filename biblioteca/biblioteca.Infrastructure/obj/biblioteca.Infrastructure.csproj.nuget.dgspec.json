@@ -4,14 +4,14 @@
     "C:\\projects\\biblioteca\\biblioteca.Infrastructure\\biblioteca.Infrastructure.csproj": {}
   },
   "projects": {
-    "C:\\projects\\biblioteca\\biblioteca.Infrastructure\\biblioteca.Infrastructure.csproj": {
+    "C:\\projects\\biblioteca\\biblioteca.Domain\\biblioteca.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\projects\\biblioteca\\biblioteca.Infrastructure\\biblioteca.Infrastructure.csproj",
-        "projectName": "biblioteca.Infrastructure",
-        "projectPath": "C:\\projects\\biblioteca\\biblioteca.Infrastructure\\biblioteca.Infrastructure.csproj",
+        "projectUniqueName": "C:\\projects\\biblioteca\\biblioteca.Domain\\biblioteca.Domain.csproj",
+        "projectName": "biblioteca.Domain",
+        "projectPath": "C:\\projects\\biblioteca\\biblioteca.Domain\\biblioteca.Domain.csproj",
         "packagesPath": "C:\\Users\\Enmanuel\\.nuget\\packages\\",
-        "outputPath": "C:\\projects\\biblioteca\\biblioteca.Infrastructure\\obj\\",
+        "outputPath": "C:\\projects\\biblioteca\\biblioteca.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Enmanuel\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -39,6 +39,75 @@
       "frameworks": {
         "netstandard2.1": {
           "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\projects\\biblioteca\\biblioteca.Infrastructure\\biblioteca.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\projects\\biblioteca\\biblioteca.Infrastructure\\biblioteca.Infrastructure.csproj",
+        "projectName": "biblioteca.Infrastructure",
+        "projectPath": "C:\\projects\\biblioteca\\biblioteca.Infrastructure\\biblioteca.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\Enmanuel\\.nuget\\packages\\",
+        "outputPath": "C:\\projects\\biblioteca\\biblioteca.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Enmanuel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "C:\\projects\\biblioteca\\biblioteca.Domain\\biblioteca.Domain.csproj": {
+                "projectPath": "C:\\projects\\biblioteca\\biblioteca.Domain\\biblioteca.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.32, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.32, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
