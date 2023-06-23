@@ -1,10 +1,7 @@
 {
   "ExpandedNodes": [
     "",
-    "\\biblioteca.Application\\obj",
-    "\\biblioteca.Web\\Controllers",
-    "\\biblioteca.Web\\Models"
+    "\\biblioteca.Domain"
   ],
-  "SelectedNode": "\\biblioteca.Ioc",
   "PreviewInSolutionExplorer": false
 }

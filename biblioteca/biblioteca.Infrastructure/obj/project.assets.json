@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    ".NETStandard,Version=v2.1": {}
+    ".NETStandard,Version=v2.1": {
+      "biblioteca.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.1",
+        "compile": {
+          "bin/placeholder/biblioteca.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/biblioteca.Domain.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "biblioteca.Domain/1.0.0": {
+      "type": "project",
+      "path": "../biblioteca.Domain/biblioteca.Domain.csproj",
+      "msbuildProject": "../biblioteca.Domain/biblioteca.Domain.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    ".NETStandard,Version=v2.1": []
+    ".NETStandard,Version=v2.1": [
+      "biblioteca.Domain >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\Franchesca\\.nuget\\packages\\": {},
@@ -39,7 +58,11 @@
       "frameworks": {
         "netstandard2.1": {
           "targetAlias": "netstandard2.1",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Proyectos\\biblioteca1\\biblioteca\\biblioteca.Domain\\biblioteca.Domain.csproj": {
+              "projectPath": "C:\\Proyectos\\biblioteca1\\biblioteca\\biblioteca.Domain\\biblioteca.Domain.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
