@@ -2,11 +2,13 @@
 
 using System;
 
+
 namespace biblioteca.Domain.Entities
 {
     public class Prestamo
     {
-        public int Idprestamo { get; set; }
+        
+        public int IdPrestamo { get; set; }
         public string? Codigo { get; set; }
         public int? IdEstadoPrestamo { get; set; }
         public int? IdLector { get; set; }
@@ -15,7 +17,7 @@ namespace biblioteca.Domain.Entities
         public DateTime? FechaConfirmacionDevolucion { get; set; }
         public string? EstadoEntregado { get; set; }
         public string? EstadoRecibido { get; set; }
-        public bool? Estdo { get; set; }
+        public bool? Estado { get; set; }
 
         public DateTime? FechaCreacion { get; set; }
 

@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "QwyMaO42RgJKe8fagDakoPDd5Sog/1alUDmZoFvVY0ZXVVR397z39QVBNXeMCTBK7OSWXNXKHP0KtYiRMohWyA==",
+  "dgSpecHash": "5Lli83ZW/7tfFZbrrqBK8I2kYHCdxjMNhFjRb7VXyAwpTKoBn78m4u0vS/kmGUQ8zdM+UYigg0kAgxkDnAaZOg==",
   "success": true,
   "projectFilePath": "C:\\projects1\\biblioteca\\biblioteca.Domain\\biblioteca.Domain.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\keke_\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

@@ -1,10 +1,14 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Globalization;
 using System.Text;
 
 namespace biblioteca.Infrastructure.Exceptions
 {
-    internal class PrestamoException
+    public class PrestamoException : Exception
     {
+        public PrestamoException(string message) : base(message) 
+        {
+        }
     }
 }

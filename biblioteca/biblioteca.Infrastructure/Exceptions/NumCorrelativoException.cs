@@ -4,7 +4,10 @@ using System.Text;
 
 namespace biblioteca.Infrastructure.Exceptions
 {
-    internal class NumCorrelativoException
+    public class NumCorrelativoException : Exception
     {
+        public NumCorrelativoException(string message) : base(message)
+        {
+        }
     }
 }
